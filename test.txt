@@ -1,2 +1,4 @@
 this is fetch test
 to add the test.txt
+this is a remote test
+
